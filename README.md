@@ -19,9 +19,11 @@ Python 3 installed
 
 IMG2HEX imagefile [output] [-i]
 
-  imagefile   Specifies the image file to convert
-  output      Indicates a file to write the hex characters to
-  -i          Invert colors of the image"
+    imagefile: Specifies the image file to convert
+  
+    output: Indicates a file to write the hex characters to
+  
+    -i: Invert colors of the image"
 
 
 ## What's included
