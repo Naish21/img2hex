@@ -76,7 +76,7 @@ if __name__ == '__main__':
         print("\nConverts an image file 212x104 or 104x212 to an hex text to send to FireBeetle Covers-ePaper \n")
         print("ARGNUM imagefile [output] [-i]\n")
         print("imagefile   Specifies the image file to convert")
-        print("output      Indicates a file to write the hex characters to")
+        print("output      Indicates a file to write the hex characters to (if omitted, out.txt will be used)")
         print("-i          Invert colors of the image")
 
     else:
