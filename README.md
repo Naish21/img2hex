@@ -7,6 +7,7 @@ Convert a 212x104 image to an hex text to send to [FireBeetle Covers-ePaper](htt
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [What's included](#whats-included)
+- [Creator](#creator)
 
 
 ## Requirements
