@@ -25,12 +25,20 @@ IMG2HEX imagefile [output] [-i]
 
 ## What's included
 
- E-ink image converter.ipynb - Python Notebook with examples
- black.bmp                   - Example image (size 212x104)
- black.jpg                   - Example image (size 104x212)
- black.txt                   - Example output for black.bmp / black.jpg
- image.pdn                   - Paint.net file with images black/red
- img2hex.py                  - COMMAND LINE PYTHON PROGRAM
- red.bmp                     - Example image (size 212x104)
- red.txt                     - Example output for red.bmp
- 
+- E-ink image converter.ipynb - Python Notebook with examples
+- black.bmp                   - Example image (size 212x104)
+- black.jpg                   - Example image (size 104x212)
+- black.txt                   - Example output for black.bmp / black.jpg
+- image.pdn                   - Paint.net file with images black/red
+- **img2hex.py**                  - **COMMAND LINE PYTHON PROGRAM**
+- red.bmp                     - Example image (size 212x104)
+- red.txt                     - Example output for red.bmp
+
+
+## Creator
+
+**Jorge Aranda**
+
+- <https://twitter.com/jam_naish>
+- <https://github.com/Naish21>
+- <https://www.linkedin.com/in/jorgearandamoro>
