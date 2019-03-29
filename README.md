@@ -7,6 +7,7 @@ Convert a 212x104 image to an hex text to send to [FireBeetle Covers-ePaper](htt
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [What's included](#whats-included)
+- [License](#license)
 - [Creator](#creator)
 
 
@@ -21,7 +22,7 @@ IMG2HEX imagefile [output] [-i]
 
     imagefile: Specifies the image file to convert
   
-    output: Indicates a file to write the hex characters to
+    output: Indicates a file to write the hex characters to (if omitted saved to out.txt)
   
     -i: Invert colors of the image"
 
@@ -36,6 +37,11 @@ IMG2HEX imagefile [output] [-i]
 - **img2hex.py**              - **Command line python program**
 - red.bmp                     - Example image (size 212x104)
 - red.txt                     - Example output for red.bmp
+
+
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/Naish21/img2hex/blob/master/LICENSE) file for details
 
 
 ## Creator
