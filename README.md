@@ -30,7 +30,7 @@ IMG2HEX imagefile [output] [-i]
 - black.jpg                   - Example image (size 104x212)
 - black.txt                   - Example output for black.bmp / black.jpg
 - image.pdn                   - Paint.net file with images black/red
-- **img2hex.py**                  - **COMMAND LINE PYTHON PROGRAM**
+- **img2hex.py**              - **Command line python program**
 - red.bmp                     - Example image (size 212x104)
 - red.txt                     - Example output for red.bmp
 
