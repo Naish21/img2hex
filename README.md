@@ -35,6 +35,7 @@ IMG2HEX imagefile [output] [-i]
 - black.txt                   - Example output for black.bmp / black.jpg
 - image.pdn                   - Paint.net file with images black/red
 - **img2hex.py**              - **Command line python program**
+- PictureDemo_Jorge.ino       - Arduino example to upload to an ESP32 (Firebeetle Board ESP32 in this particular case)
 - red.bmp                     - Example image (size 212x104)
 - red.txt                     - Example output for red.bmp
 
